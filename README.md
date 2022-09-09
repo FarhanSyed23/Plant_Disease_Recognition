@@ -1,6 +1,6 @@
 # Plant_Disease_Recognition
 
-At first, [All_Segmentation_Techniques.ipynb](https://github.com/FarhanSyed23/Plant_Disease_Recognition/blob/main/All_Segmentation_Techniques.ipynb) file includes three segmentation techinques in one place. The results aren't shown here. To see the results, please go to individual folders named according to the segmentation techniques. The files are loaded with image and they are so large in size that github can't render them at this moment. If you want to see the results, you can see the **"readme"** files in those folders or you can download the ipynb files. 
+**NOTICE:** At first, [All_Segmentation_Techniques.ipynb](https://github.com/FarhanSyed23/Plant_Disease_Recognition/blob/main/All_Segmentation_Techniques.ipynb) file includes three segmentation techinques in one place. The results aren't shown here. To see the results, please go to individual folders named according to the segmentation techniques. The files are loaded with image and they are so large in size that github can't render them at this moment. If you want to see the results, you can see the **"readme"** files in those folders or you can download the ipynb files. 
 
 As a part of research works, I looked for various segmentation methods to improve the accuracy of correctly identifying the plant disease from images.
  
